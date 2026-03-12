@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Taofeeq 👋
 
-<!--
-**AgiriTaofeek/AgiriTaofeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on building scalable SaaS products.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- React Native
+- TanStack Start
+- TypeScript
+- Node.js
+- Prisma
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- SaaS products
+- Developer tools
+- Internal systems
+
+## Featured Projects
+- TestForge – Test case management system
+- Transaction Monitoring Tool
+- SaaS starter architecture
+
+## Currently Exploring
+- Distributed systems
+- event-driven architecture
+- realtime systems
